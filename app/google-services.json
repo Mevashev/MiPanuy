@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506605358367",
+    "firebase_url": "https://mipanuy.firebaseio.com",
+    "project_id": "mipanuy",
+    "storage_bucket": "mipanuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506605358367:android:3023355146348c4f",
+        "android_client_info": {
+          "package_name": "com.mipanuy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506605358367-38dikqiho9151ktb5t8e73f6cle246bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mipanuy.app",
+            "certificate_hash": "8a45241808086873c9ef6d2cb40aa751e65d168b"
+          }
+        },
+        {
+          "client_id": "506605358367-14k96nq45joc7j1r79fdp65umusertr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3CL3uCwx50HlJ0q39Vr-CGvc2sar_ozU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506605358367-14k96nq45joc7j1r79fdp65umusertr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
